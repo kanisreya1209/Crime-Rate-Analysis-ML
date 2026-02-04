@@ -48,6 +48,7 @@ Crime-Rate-Analysis-ML/
 
 ## 🚀 How to Run the Project
 
-### Step 1: Install Dependencies
+### Steps : Install Dependencies & Run Streamlit App
 ```bash
 pip install -r requirements.txt
+streamlit run app.py
